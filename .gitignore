@@ -1,0 +1,59 @@
+# -------------------
+# R and RStudio
+# -------------------
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj
+*.Rproj
+
+# R package build outputs
+*.o
+*.so
+*.dll
+
+# -------------------
+# Python
+# -------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+.env
+.venv
+venv/
+ENV/
+env/
+
+# -------------------
+# JavaScript / Web
+# -------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# -------------------
+# Stata
+# -------------------
+*.dta
+*.smcl
+*.stpr
+*.stsem
+
+# -------------------
+# Operating System files
+# -------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------
+# General
+# -------------------
+*.log
+*.tmp
